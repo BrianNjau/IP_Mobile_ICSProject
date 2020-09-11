@@ -6,9 +6,6 @@ import 'package:listings/config/configuration.dart';
 
 import 'package:listings/screens/propertydetail.dart';
 import 'package:listings/services/crud.dart';
-import 'package:listings/services/propertynotifier.dart';
-import 'package:random_string/random_string.dart';
-import 'package:provider/provider.dart';
 
 import 'prop1.dart';
 
